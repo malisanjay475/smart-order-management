@@ -1,6 +1,6 @@
 # Viva Notes: AI-Powered Smart Order Management System
 
-Sanjay · UID O22BCA16074 · BCA Semester 5 · Chandigarh University
+Sanjay · UID O22BCA16074 · BCA Semester 6 · Chandigarh University
 
 ## 30-second introduction
 
